@@ -1,0 +1,39 @@
+SLE-2 PROFILING RESULTS
+=======================
+
+Experiment:
+BFS vs DFS
+
+Problem:
+Small Graph
+
+Profiling Tool:
+Python timeit
+
+Number of Runs:
+3
+
+RUN 1
+BFS Time: 0.002816 ms
+DFS Time: 0.003557 ms
+BFS Nodes: 11
+DFS Nodes: 11
+
+RUN 2
+BFS Time: 0.002928 ms
+DFS Time:  0.003371 ms
+BFS Nodes: 11
+DFS Nodes: 11
+
+RUN 3
+BFS Time:  0.003128 ms
+DFS Time:  0.003414 ms
+BFS Nodes: 11
+DFS Nodes: 11
+
+AVERAGE RESULTS
+BFS Average Time: 0.0029573333
+DFS Average Time: 0.0034473333
+
+BFS Nodes: 11
+DFS Nodes: 11
